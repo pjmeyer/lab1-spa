@@ -20,10 +20,14 @@ cd lab1-spa
 
 ## Your First Deployment
 1. Open the Azure tab on the left side of VS Code
+
 2. Open the storage section
+
 3. Open the demo subscription: `CADDAI Backups` 
 <img width="391" alt="image" src="https://user-images.githubusercontent.com/820883/46748625-d3fc6a00-cc68-11e8-98c7-b8febbff43e8.png">
+
 4. Right click the storage account that corresponds to your machine number (ie. jsinteractive<machineNumber>) and choose  `Deploy to static website`
+  
 5. Choose browse and select the `build` folder. This contains the React SPA you just built locally.
 <img width="605" alt="image" src="https://user-images.githubusercontent.com/820883/46748737-158d1500-cc69-11e8-84fc-1ad22fdeaeac.png">
 6. When deployment completes, you'll see a notification in the bottom right. Click `Browse to Website`
