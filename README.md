@@ -9,7 +9,7 @@ This is a cheap and fast way to host self contained, front end assets like React
 ```
 cd ~/Downloads
 git clone https://github.com/bowdenk7/lab1-spa.git
-cd lab1-spa
+cd lab1-spa ; code . -r
 ```
 3. Run `npm install` to get the dependencies
 4. Run `npm run build` to build locally
