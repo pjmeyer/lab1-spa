@@ -37,7 +37,10 @@ cd lab1-spa
 ## Make a code change
 1. Back in VS Code, open `src/App.js` and make a change. If you're unfamiliar with React, that's ok, find **line 12** and edit the text.
 <img width="954" alt="image" src="https://user-images.githubusercontent.com/820883/46750203-4d498c00-cc6c-11e8-9ae2-efa9cb371a44.png">
-2. Redeploy following the same steps in the above section
+
+2. Rebuild with `npm run build`
+
+3. Redeploy following the same steps in the above section
 
 ## Summary
 This lab shows you how quickly and easily you can deploy a front-end app to Azure Storage using VS Code and the Azure Storage extension. These tools allow for rapid iteration and deployment.
