@@ -9,7 +9,6 @@ This is a cheap and fast way to host self contained, front end assets like React
 2. Open the integrated terminal with `windows + tilde`
 3. Run `npm install` to get the dependencies
 4. Run `npm run build` to build locally
-[TODO: This takes 2-3m add a description of what we're doing]
 5. Run locally with `npm run start`
 6. You should see the following:
 <img width="718" alt="image" src="https://user-images.githubusercontent.com/820883/46748497-90a1fb80-cc68-11e8-9de3-f60029f7866a.png">
@@ -24,11 +23,12 @@ This is a cheap and fast way to host self contained, front end assets like React
 5. Choose browse and select the `build` folder. This contains the React SPA you just built locally.
 <img width="605" alt="image" src="https://user-images.githubusercontent.com/820883/46748737-158d1500-cc69-11e8-84fc-1ad22fdeaeac.png">
 6. When deployment completes, you'll see a notification in the bottom right. Click **Browse to Website** 
-[TODO: screenshot]
+<img width="463" alt="image" src="https://user-images.githubusercontent.com/820883/46750293-7a963a00-cc6c-11e8-9181-1698e114e7c7.png">
+
 
 ## Make a code change
 1. Back in VS Code, open `src/App.js` and make a change. If you're unfamiliar with React, that's ok, find **line 12** and edit the text.
-[TODO: screenshot]
+<img width="954" alt="image" src="https://user-images.githubusercontent.com/820883/46750203-4d498c00-cc6c-11e8-9ae2-efa9cb371a44.png">
 2. Redeploy following the same steps in the above section
 
 ## Summary
