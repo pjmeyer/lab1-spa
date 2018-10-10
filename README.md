@@ -4,9 +4,13 @@ This lab will walk you through hosting a front-end JavaScript app with Azure Sto
 This is a cheap and fast way to host self contained, front end assets like React/Angular/Vue apps.
 
 ## Checkout and build the React Single Page App (SPA)
-1. Clone and open the code in this repository with VS Code.
-`https://github.com/bowdenk7/lab1-spa.git`
-2. Open the integrated terminal with `ctrl + tilde`
+1. Open the integrated terminal in VS Code with `ctrl + tilde`
+2. Clone and open the code in this repository with VS Code.
+```
+cd ~/Downloads
+git clone https://github.com/bowdenk7/lab1-spa.git
+cd lab1-spa
+```
 3. Run `npm install` to get the dependencies
 4. Run `npm run build` to build locally
 5. Run locally with `npm run start`
