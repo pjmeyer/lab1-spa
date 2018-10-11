@@ -1,4 +1,4 @@
-# Lab 1 - Singe Page App Hosting on Azure Storage
+# Lab 1 - Single Page App Hosting on Azure Storage
 
 This lab will walk you through hosting a front-end JavaScript app with Azure Storage. 
 This is a cheap and fast way to host self contained, front end assets like React/Angular/Vue apps.
@@ -23,7 +23,7 @@ cd lab1-spa ; code . -r
 ## Deploy the same app to the cloud!
 
 1. Right-click on your `build` folder, and select the option, `Deploy to static website`
-
+<img width="360" alt="deploy-static-retina" src="https://user-images.githubusercontent.com/5591113/46822533-9a972d80-cd40-11e8-88dc-4a09d4c073a4.png">
 
 3. You'll be asked to select a resource ggroup. Choose the "jsineractive[x]" group.
 
