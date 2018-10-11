@@ -30,7 +30,7 @@ cd lab1-spa ; code . -r
   
 5. A warning will popup that says "The storage container "jsinteractive4/$web" contains 15 files. Deploying will delete all of these existing files.  Continue?" Choose **Delete and deploy**
   
-6. Choose browse and select the `build` folder. This contains the React SPA you just built locally.
+6. Choose **browse** and select the **build** folder. This contains the React SPA you just built locally.
 <img width="605" alt="image" src="https://user-images.githubusercontent.com/820883/46748737-158d1500-cc69-11e8-84fc-1ad22fdeaeac.png">
 
 7. When deployment completes, you'll see a notification in the bottom right. Click `Browse to Website`
